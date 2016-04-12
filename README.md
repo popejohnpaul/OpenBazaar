@@ -1,2 +1,0 @@
-# OpenBazaar
-OpenBazaar online service
